@@ -1,0 +1,5 @@
+# ignore all xcf
+*.xcf
+
+# ignore garbine.wma
+garbine.wma
