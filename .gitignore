@@ -1,5 +1,3 @@
-# ignore all xcf
 *.xcf
-
-# ignore garbine.wma
 garbine.wma
+final_project.pdf
